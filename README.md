@@ -1,6 +1,6 @@
 # meteor-webpack-react
 
-THis is a Meteor project skeleton where the client (in React) and server get built by Webpack.  In dev mode,
+This is a Meteor project skeleton where the client (in React) and server get built by Webpack.  In dev mode,
 webpack-dev-server is used with react-hot-loader.  There are a bunch of run and build scripts to make things more
 convenient.
 
